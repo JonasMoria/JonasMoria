@@ -39,12 +39,6 @@
   </a>
 </div>
 
-<div>
-  <a href="https://beacons.ai/jonasmoria"></a>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=jonasmoria&show_icons=true&theme=dark"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmoria&layout=donut&show_icons=true&theme=dark"/>
-</div>
-
 
 
 
